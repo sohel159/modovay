@@ -1,0 +1,12 @@
+#BOX{
+    width: 200PX;
+    height: 150PX;
+    background-color: green;
+    transition: 1s;
+
+}
+#BOX:hover{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+}

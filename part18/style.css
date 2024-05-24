@@ -1,0 +1,26 @@
+.parent{
+   width: 600px; 
+   border: 2px solid red;
+   margin: 50px;
+   padding: 50px;
+}
+.one{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  display: inline-block;
+
+}
+.two{
+    width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+
+}
+.three{
+    width: 100px;
+    height: 100px;
+    background-color: chartreuse;
+    display: inline-block;
+}

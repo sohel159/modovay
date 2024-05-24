@@ -1,0 +1,7 @@
+#border{
+ 
+    border-style: solid;
+    border-width: 10px;
+    border-color: brown red blue yellow;
+    border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+.box-text{
+   margin: 50px; 
+   border: 1px solid black;
+   width: 500px;
+   height: 300px;
+   color: brown;
+   text-align: center;
+   text-align: justify;
+   text-align-last: center;
+   text-indent: 50px;
+}

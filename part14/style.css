@@ -1,0 +1,17 @@
+#color-box{
+    background-image: url(img/md\ sohel\ rana-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 650px;
+    height: 650px;
+}
+#color-box h1{
+    background-color: blueviolet;
+    color: white;
+    padding: 50px 0;
+    text-align: center;
+
+}
+#color-box h1:hover{
+   opacity: 0.5; 
+}

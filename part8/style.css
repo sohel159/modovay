@@ -1,0 +1,24 @@
+
+
+.borders{
+   border: 3px solid black; 
+}
+
+.seconddiv{
+
+    width: 300px;
+    background-color: aquamarine;
+    padding: 50px;
+    margin: 100px;
+}
+
+
+.firstdiv{
+ margin-bottom: 50px; 
+}
+
+
+.btn{
+margin-top: 100px; 
+margin-bottom: 200px;
+}

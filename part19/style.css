@@ -1,0 +1,21 @@
+:root{
+    --initialColor: blue;
+    --buttonColor: red;
+    --textColor: black;
+}
+
+
+
+.func{
+    background-color: var(--initialColor);
+    height: 250px;
+    width: calc(100% - 180px);
+    margin-bottom: 20px;
+}
+button{
+    background-color: var(--buttonColor);
+    color: var(--textColor);
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}

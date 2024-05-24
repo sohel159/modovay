@@ -1,0 +1,17 @@
+.div-1{
+    background-color: bisque;
+    width: 400px;
+    height: 150px;
+    border: 20px solid black;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+.div-2{
+    background-color: blueviolet;
+    width: 400px;
+    height: 150px;
+    border: 10px solid black;
+    padding: 50px;
+    box-sizing: border-box;
+}
